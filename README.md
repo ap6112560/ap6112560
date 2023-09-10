@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Prasad</h1>
-<h3 align="center">A passionate software developer with around 5 years of experience in Web development</h3>
+<h3 align="center">A passionate software developer with around 6 years of experience in Web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ap6112560&label=Profile%20views&color=0e75b6&style=flat" alt="ap6112560" /> </p>
 
